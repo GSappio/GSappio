@@ -5,7 +5,7 @@
 </div>
  <br/>  
 <div align="center">
-   <img align="center" width="400m" height="400em" src="./img/codando.gif"/>
+   <img align="center" width="400em" height="400em" src="./img/codig.gif"/>
    <img align="left" width="80px" height="870em" src="./img/gifMatrix.gif"/>   
    <img align="right" width="80px" height="870em" src="./img/gifMatrix.gif"/>  
 </div>
