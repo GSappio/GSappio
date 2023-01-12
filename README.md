@@ -14,10 +14,6 @@
  <img align="center" width="400px" src="./img/hii4.gif"/>
 </div>
  <br/>
- <div align="center">
-  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api?username=GSappio&show_icons=true&theme=dark"/>
-  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSappio&layout=compact&langs_count=7&theme=dark"/>
- </div>
  <hr>
 <div align="left" style="display: inline_block"><br>
    ㅤ
