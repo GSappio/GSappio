@@ -6,8 +6,8 @@
  <br/>  
 <div align="center">
    <img align="center" width="200em" height="300em" src="./img/codig.gif"/>
-   <img align="left" width="80px" height="870em" src="./img/gifMatrix.gif"/>   
-   <img align="right" width="80px" height="870em" src="./img/gifMatrix.gif"/>  
+   <img align="left" width="80px" height="670em" src="./img/gifMatrix.gif"/>   
+   <img align="right" width="80px" height="670em" src="./img/gifMatrix.gif"/>  
 </div>
 <br/>
  <div align="center">
