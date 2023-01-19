@@ -14,7 +14,12 @@
  <img align="center" width="400px" src="./img/hii4.gif"/>
 </div>
  <br/>
- <hr>
+ <hr/>
+<div align="center">
+<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api?username=GSappio&show_icons=true&theme=dark"/>
+  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSappio&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  <hr/>      
 <div align="left" style="display: inline_block"><br>
    ㅤ
   <img align="center" alt="Sappio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
